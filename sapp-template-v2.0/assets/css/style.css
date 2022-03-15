@@ -2529,6 +2529,10 @@ img {
 /* ******************************
 :: 25.0 CONTACT AREA CSS
 ****************************** */
+.contact-us{
+  text-align: center;
+}
+
 .contact-us .social-icon {
   display: inline-block;
   height: 45px;

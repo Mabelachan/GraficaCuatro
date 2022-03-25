@@ -1761,6 +1761,10 @@ img {
 /* ******************************
 :: 13.0 WORK AREA CSS
 ****************************** */
+.work-area{
+  background-color: var(--primary-t-color);
+}
+
 .work-area .single-work {
   position: relative;
 }
